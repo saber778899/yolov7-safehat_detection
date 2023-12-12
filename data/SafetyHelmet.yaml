@@ -1,0 +1,6 @@
+train: /home/liuhaoan/yolov7/yolov7-main/dataset/css-data/train/images/
+val: /home/liuhaoan/yolov7/yolov7-main/dataset/css-data/valid/images/
+
+nc: 10
+
+names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone, Safety Vest, machinery, vehicle]
